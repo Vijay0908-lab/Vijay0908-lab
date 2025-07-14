@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Vijay0908-lab
-- 👀 I’m interested in learning technology 
-- 🌱 I’m currently learning javascript 
+- 👀 I’m interested in learning technology  
 - 💞️ I’m looking to collaborate on Development projects
-- 
+  
+  
 
 
 <!---
