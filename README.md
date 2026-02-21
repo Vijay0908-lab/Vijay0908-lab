@@ -25,9 +25,6 @@ I am a third-year **Artificial Intelligence and Data Science** student at **Thak
 * **Full Stack Developer Intern** | **StayAtlas** *(Feb 2026 – Present)*
   * Collaborating directly with the founding team to build and scale core platform features.
   * Implementing robust backend logic and responsive frontend components for real-time applications.
-* **Web Developer Intern** | **YourTrust Consultancy** *(Jan 2026 – May 2026)*
-  * Developing and maintaining client-facing web solutions.
-  * Ensuring high performance and responsiveness of applications through optimized code.
 
 ---
 
