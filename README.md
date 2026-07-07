@@ -12,7 +12,7 @@
 ---
 
 ### 📖 About Me
-I am a third-year **Artificial Intelligence and Data Science** student at **Thakur College of Engineering and Technology (TCET)**. I specialize in building scalable web applications and enjoy tackling complex challenges through data structures and algorithms.
+I am a fourth-year **Artificial Intelligence and Data Science** student at **Thakur College of Engineering and Technology (TCET)**. I specialize in building scalable web applications and enjoy tackling complex challenges through data structures and algorithms.
 
 * 💻 **Building:** High-performance web apps using the **MERN stack** and **Next.js**.
 * 🎯 **Goal:** Mastering Cloud Architecture and Scalable Systems.
@@ -22,7 +22,7 @@ I am a third-year **Artificial Intelligence and Data Science** student at **Thak
 
 ### 💼 Professional Experience
 
-* **Full Stack Developer Intern** | **StayAtlas** *(Feb 2026 – Present)*
+* **Full Stack Developer Intern** | **StayAtlas** *(Feb 2026 – May 2026)*
   * Collaborating directly with the founding team to build and scale core platform features.
   * Implementing robust backend logic and responsive frontend components for real-time applications.
 
